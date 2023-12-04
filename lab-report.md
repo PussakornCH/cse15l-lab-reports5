@@ -12,6 +12,12 @@ I write java files listExample and TestListExamples, then I want to grade it usi
 
 I think I wrote the filter method correctly, my expectation is that somehow we cannot find the filter method
 
+![Image](1.PNG)
+
+![Image](2.PNG)
+
+![Image](3.PNG)
+
 
 ## TA response:
 
