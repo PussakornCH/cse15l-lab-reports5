@@ -29,9 +29,17 @@ find filter method even if you have it in your Java files
 
 One more thing, you should check your grade.sh. Remember the difference between Mac and Windows for Junit java.
 
+![Image](4.PNG)
+
 ## Student Response:
 
 Thank you very much, TA! It is just like you said. I misplaced the filter method's argument name and learned the difference between the Junit Java implementation of Windows and Mac.
+
+![Image](5.PNG)
+
+![Image](6.PNG)
+
+![Image](7.PNG)
 
 ## Part 2 Reflection
 
